@@ -1,6 +1,7 @@
 @echo off
 rem Bad Rabbit Ransomware vaccine as described by Cybereason here:
 rem https://www.cybereason.com/blog/cybereason-researcher-discovers-vaccine-for-badrabbit-ransomware 
+rem Created by Apostolos Smyrnakis - 11/2017
 
 mode con:cols=110 lines=25
 color 0b
